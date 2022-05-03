@@ -139,4 +139,7 @@ footer div{
   .description {
     font-size: 18px;
   }
+  img {
+    height: 25vh;
+  }
 }
